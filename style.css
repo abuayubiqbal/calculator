@@ -1,0 +1,92 @@
+.calculator-area{
+	padding: 50PX 0PX;
+	
+}
+.calculator{
+background-color:#5A6268;
+padding: 50px 0px;
+
+}
+.calculator-top{
+	color: #fff;
+}
+.calculator-top-text{
+	color: #fff;
+}
+.calculator-top H2{
+font-size: 25PX;
+}
+.calculator-top P{
+font-size: 20PX;
+
+}
+.calculator-top-text{
+	text-align: center;
+}
+.calculator-input{
+	padding: 20px 0px;
+	
+}
+.calculator-input input{
+	background: transparent;
+	border: 1px solid #A4A4A4;
+	color: #fff;
+}
+.calculator-Btn-top{
+	position: relative;
+	margin-left:5px;
+}
+.calculator-Btn-top button{
+padding-right:10px ;
+margin:0px 2px;
+margin-bottom: 5px;
+width: 70px;
+height: 40px; 
+
+}
+.calculator-icon {
+text-align: center;
+width: 75%;
+height:100%;
+background-color:#ABD1AD;
+border-radius: 50%;
+position: relative;
+color: #fff;
+
+}
+.icon1 i{
+position: absolute;
+top: 40%;
+left:2%;
+}
+.icon2 i{
+position: absolute;
+bottom:10%;
+left:50%;
+}
+.icon4 i{
+position: absolute;
+top: 40%;
+right:2%;
+}
+.calculator-p{
+position: absolute;
+top: 30%;
+right:30%;
+}
+.calculator-midd-Btn button{
+padding: 10px 35px;
+margin:10px 6px;
+margin-bottom: 5px;
+width: 92px;
+height: 40px; 
+padding-right:18px ;
+}
+.calculator-Btn button{
+	padding: 10px 35px;
+margin:10px 6px;
+margin-bottom: 5px;
+width: 92px;
+height: 40px; 
+padding-right:18px ;
+}
